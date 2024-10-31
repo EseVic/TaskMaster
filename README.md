@@ -15,6 +15,11 @@
 |2. Foster a sense of accomplishment through progress tracking and completion of tasks. |Support a balanced lifestyle by allowing users to integrate both work and personal tasks seamlessly.|
 
 
+#Technology Used:
+- HTML
+- CSS
+- JAVASCRIPT
+
 ## This project was done by group of 11 individuals of the 3mtt Software Dev    elopment training.
 
 ### `List of Individuals who contributed to this project`
