@@ -20,6 +20,7 @@
 ### `List of Individuals who contributed to this project`
 - EseVic
 - Glorare2
+- Firdausi-Ibrahim
 - BasilDex
 - Nado-tech
 - Umardeeberos
