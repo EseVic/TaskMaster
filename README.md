@@ -20,7 +20,7 @@
 - CSS
 - JAVASCRIPT
 
-## This project was done by group of 11 individuals of the 3mtt Software Dev    elopment training.
+## This project was done by group of 12 individuals of the 3mtt Software Dev    elopment training.
 
 ### `List of Individuals who contributed to this project`
 - EseVic
@@ -34,6 +34,7 @@
 - Salihu070
 - Ephydigitals
 - Clinton722
+- ochogwuprince92
 
 
 
