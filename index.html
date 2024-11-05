@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TaskNest</title>
+  <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>TaskNest</h1>
+    <input type="text" id="itemInput" placeholder="Add a new task">
+    <button id="addButton">Add Task</button>
+    <button id="showCompletedButton">Show Completed Tasks</button>
+    <button id="toggleShowAllButton">Hide All Tasks</button>
+    <ul id="itemList"></ul>
+    <select id="prioritySelect">
+      <option value="low">Low</option>
+      <option value="medium" selected>Medium</option>
+      <option value="high">High</option>
+    </select>
+    <input type="date" id="dueDateInput">
+  </div>
+  <script src="./script.js"></script>
+</body>
+</html>
