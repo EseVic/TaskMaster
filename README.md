@@ -1,6 +1,6 @@
 # 3MTT FINAL CAPSTONE PROJECT.
 
-## Project Tiile: `TaskNest`
+## Project Title: `TaskNest`
 
 # PROJECT DIFINITION:
 - Set reminders, and categorize tasks based on urgency and importance. 
@@ -20,7 +20,7 @@
 - CSS
 - JAVASCRIPT
 
-## This project was done by group of 12 individuals of the 3mtt Software Dev    elopment training.
+## This project was done by group of 12 individuals of the 3mtt Software Development training.
 
 ### `List of Individuals who contributed to this project`
 - EseVic
