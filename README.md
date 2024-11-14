@@ -7,7 +7,7 @@ The Cloud-Based `TaskMaster`  is a web application designed to streamline team t
 
 # PROJECT DIFINITION:
 - Set reminders, and categorize tasks based on urgency and importance. 
-- With functionalities such as due dates, recurring tasks, and progress tracking, `TastNest` aims to enhance productivity and streamline the planning process for personal and professional tasks.
+- With functionalities such as due dates, recurring tasks, and progress tracking, `TastMaster` aims to enhance productivity and streamline the planning process for personal and professional tasks.
 
 
 | AIM | PURPOSE |
