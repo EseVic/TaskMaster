@@ -1,0 +1,26 @@
+{
+  "name": "task-nest",
+  "version": "1.0.0",
+  "description": "Monorepo for server and client applications",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm run start:server",
+    "start:server": "node server/index.js",
+    "start:client": "npm run preview --prefix client",
+    "dev:server": "nodemon server/index.js",
+    "dev:client": "npm run dev --prefix client",
+    "dev": "concurrently \"npm run dev:server\" \"npm run dev:client\"",
+    "build:server": "npm run build --prefix server",
+    "build:client": "npm run build --prefix client",
+    "build": "npm run build:server && npm run build:client"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "concurrently": "^9.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
